@@ -8,7 +8,7 @@ public class Main {
     } else if (age == 7){
         System.out.println("Иди в школу, дружок!!");
     } else {
-        System.out.println("Новостей для тебя пока нет((");
+        System.out.println("Новостей для тебя пока нет(");
     }
      }
     }
